@@ -34,5 +34,5 @@ but I couldn't figure it out. It seems `winit`
 so the problem is likely in bevy. Or maybe it's been fixed on main, but I
 couldn't get my project to use a local copy of bevy on the main branch without a
 substantial amount of work. Either way, the currently published version of bevy
-doesn't do it, so this patch is helpful to continue making whatever game you're
-trying to make.
+doesn't seem to do it (on my machine), so this patch is helpful to continue
+making whatever game you're trying to make.
