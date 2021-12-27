@@ -36,3 +36,9 @@ couldn't get my project to use a local copy of bevy on the main branch without a
 substantial amount of work. Either way, the currently published version of bevy
 doesn't seem to do it (on my machine), so this patch is helpful to continue
 making whatever game you're trying to make.
+
+## Please publish this on crates.io
+
+[This](https://github.com/bevyengine/bevy/issues/3099) is happening for me,
+which means I can't use `cargo publish` even though I can do `cargo build`. It's
+sad.
